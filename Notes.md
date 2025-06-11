@@ -1,0 +1,2 @@
+Nextjs + Typescript
+Mailtrap
